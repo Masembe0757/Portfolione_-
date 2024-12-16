@@ -69,7 +69,8 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: linear-gradient(90deg, #ffd700, #ffac33, #ffd700, #ffac33);
+  background-color: #fff;
+  background: linear-gradient(90deg, #ffd700, #ffac33, #ffd700, #ffac33);
 }
 
 [tabindex="-1"]:focus {
