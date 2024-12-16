@@ -70,7 +70,7 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
-  background: linear-gradient(180deg, #ffffff 0%, #ffd700 40%, #ffac33 60%, #ffd700 80%, #ffac33 100%);
+  background: linear-gradient(180deg, #ffffff 0%, #ffd700 10%, #ffac33 30%, #ffd700 50%, #ffac33 70%);
 }
 
 [tabindex="-1"]:focus {
